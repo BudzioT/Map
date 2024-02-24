@@ -1,5 +1,6 @@
 # Map lighting
 ## :computer: Info
+This is a light simulation. The program renders one box, with metal frames, which are affected by the lighting more than the wooden part of the box<br>
 You can move around with WASD keys, sprint with shift and look freely with mouse. You can exit the program by clicking ESC<br><br>
 This program is written in C++, with CMake, using following libraries:<br>
 - GLAD
